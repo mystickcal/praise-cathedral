@@ -56,11 +56,11 @@ body {
 .nav {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 1rem 1.5rem !important;
+    padding: 0.8rem 1.5rem !important;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    gap: 0.5rem;
+    gap: 1rem;
 }
 
 .logo a {
@@ -88,10 +88,10 @@ body {
     display: flex;
     list-style: none;
     gap: 0.3rem;
-    margin: 0;
+    margin-left: auto;
     padding: 0;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 #menu a {
