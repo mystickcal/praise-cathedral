@@ -1,0 +1,87 @@
+baseURL = "https://simplypraise.org/"
+languageCode = "en-us"
+title = "Praise Cathedral Church of God"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  description = "Praise Cathedral Church of God — A welcoming Pentecostal church family in Niles, Ohio. Join us for worship, fellowship, and community. Pastor Jim Salyers."
+  author = "Praise Cathedral Church of God"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = false
+  TocOpen = false
+  comments = false
+
+  images = ["/images/og-default.jpg"]
+
+  [params.label]
+    text = "Praise Cathedral"
+    iconHeight = 60
+
+  [params.homeInfoParams]
+    Title = "Welcome to Praise Cathedral"
+    Content = """A warm, Spirit-filled church family in the heart of Niles, Ohio. Whether you're searching for a church home or just curious about what we're all about, you're welcome here. Come as you are — we'd love to meet you."""
+
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/groups/726230317426276/"
+
+  [[params.socialIcons]]
+    name = "phone"
+    url = "tel:+13306524859"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:info@simplypraise.org"
+
+[params.assets]
+  favicon = "/images/cross-icon.svg"
+
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "services"
+    name = "Service Times"
+    url = "/services/"
+    weight = 20
+  [[menu.main]]
+    identifier = "pastor"
+    name = "Our Pastor"
+    url = "/pastor/"
+    weight = 30
+  [[menu.main]]
+    identifier = "visit"
+    name = "Plan Your Visit"
+    url = "/visit/"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50

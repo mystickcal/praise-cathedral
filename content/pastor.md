@@ -1,0 +1,35 @@
+---
+title: "Our Pastor"
+layout: "single"
+url: "/pastor/"
+summary: "Meet Pastor Jim Salyers — the heart and shepherd of Praise Cathedral Church of God."
+---
+
+## Pastor Jim Salyers
+
+Pastor Jim Salyers has faithfully served as the shepherd of Praise Cathedral Church of God since the church was established in **1996**. Known to the congregation and community as **Pastor Jim**, he brings a genuine heart for people and a deep love for the Word of God to every service, every conversation, and every prayer.
+
+Pastor Jim isn't the kind of preacher who talks over people's heads. He meets you where you are with a message that's real, practical, and rooted in Scripture. Whether he's preaching on a Sunday morning, visiting someone in the hospital, or just catching up over coffee, his heart for the people of this community comes through in everything he does.
+
+## A Pastor Who Knows Your Name
+
+One of the things people love most about Praise Cathedral is that it truly feels like family, and that starts with Pastor Jim. In a world of mega-churches and online services, there's something special about a pastor who knows your name, knows your story, and genuinely cares about what you're going through.
+
+## His Vision
+
+Pastor Jim's vision for Praise Cathedral has always been simple and steadfast:
+
+- **Preach the uncompromised Word of God**
+- **Love people right where they are**
+- **Build a church that feels like home**
+- **Serve the Niles community with open hands**
+
+Under his leadership, Praise Cathedral has grown into a warm, welcoming place where generations of families have found faith, hope, and belonging.
+
+---
+
+> *"And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding."* — Jeremiah 3:15
+
+---
+
+**Want to connect with Pastor Jim?** He'd love to hear from you. Reach out through our [Contact](/contact/) page or just come say hello on Sunday.
