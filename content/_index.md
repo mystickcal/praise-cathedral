@@ -4,9 +4,7 @@ layout: "home"
 ---
 
 <div class="hero-section">
-  <div class="hero-logo-wrap">
-    <img src="/images/logo.png" alt="Praise Cathedral Church of God" class="hero-logo">
-  </div>
+  <h1 class="hero-title">Welcome Home</h1>
   <p class="hero-tagline">A warm, Spirit-filled church family in the heart of <strong>Niles, Ohio</strong></p>
   <p class="hero-subtitle">Whether you're searching for a church home or just curious about what we're all about — <strong>you're welcome here.</strong></p>
   <div class="hero-buttons">
