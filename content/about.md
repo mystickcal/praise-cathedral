@@ -11,6 +11,11 @@ Praise Cathedral Church of God is a Spirit-filled, Bible-believing church family
 
 We're not a perfect church and we don't pretend to be. We're a family of believers doing our best to follow Jesus, love each other, and make a difference right here in our corner of the Mahoning Valley.
 
+<div class="highlight-box">
+<h3>🕊️ Come As You Are</h3>
+<p>We welcome you no matter where you've been, what you've done, or what questions you carry. Life is hard enough without feeling judged at the door.</p>
+</div>
+
 ## What We Believe
 
 As a **Church of God** congregation, we hold to the core truths of the Christian faith:
@@ -26,10 +31,14 @@ We're part of the [Church of God](https://www.churchofgod.org/) denomination, he
 
 ## Our Heart
 
-We believe the local church should be a place where real people find real hope. That means we welcome you no matter where you've been, what you've done, or what questions you carry. Life is hard enough without feeling judged at the door.
+We believe the local church should be a place where real people find real hope. That means we welcome you no matter where you've been, what you've done, or what questions you carry.
 
 Come as you are. You'll find friendly faces, genuine worship, and a pastor who actually remembers your name.
 
+> *"For where two or three are gathered together in my name, there am I in the midst of them."* — Matthew 18:20
+
 ---
 
-**Ready to visit?** Check out our [Plan Your Visit](/visit/) page or just show up on Sunday morning. We'd love to meet you.
+<div style="text-align: center; margin-top: 2rem;">
+<a href="/visit/" class="cta-button">Plan Your Visit</a>
+</div>

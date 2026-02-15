@@ -9,19 +9,27 @@ summary: "Everything you need to know before your first visit to Praise Cathedra
 
 Visiting a new church can feel a little nerve-wracking, so here's what you need to know to feel right at home.
 
+---
+
 ## Where to Find Us
 
+<div class="info-card">
+
 **Praise Cathedral Church of God**
-608 Iowa Avenue
-Niles, OH 44446
+608 Iowa Avenue, Niles, OH 44446
 
 📞 **(330) 652-4859**
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2987.5!2d-80.7654!3d41.1826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8833e3a99e7e7e7%3A0x0!2s608+Iowa+Ave%2C+Niles%2C+OH+44446!5e0!3m2!1sen!2sus!4v1" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2987.5!2d-80.7654!3d41.1826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8833e3a99e7e7e7%3A0x0!2s608+Iowa+Ave%2C+Niles%2C+OH+44446!5e0!3m2!1sen!2sus!4v1" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## When to Come
 
-Your best first visit is **Sunday Morning Worship at 11:00 AM**. It's our main weekly gathering and gives you the full picture of who we are.
+<div class="highlight-box">
+<h3>🌟 Best First Visit</h3>
+<p>Sunday Morning Worship at 11:00 AM — it's our main weekly gathering and gives you the full picture of who we are.</p>
+</div>
 
 If you'd rather start with something more low-key, **Wednesday night Bible Study at 7:00 PM** is a smaller, more relaxed setting.
 
@@ -50,8 +58,28 @@ Nope. We might acknowledge first-time visitors, but nobody's going to make you s
 
 ---
 
-## Still Have Questions?
+<div class="info-card">
 
-Call us at **(330) 652-4859** or drop us a message through our [Contact](/contact/) page. We're happy to answer anything.
+### Getting Here
 
-**We can't wait to meet you.**
+**From Warren:** Head east on E Market St / US-422, turn right onto Iowa Ave. The church is on your left.
+
+**From Youngstown:** Take I-80 W to OH-46 N toward Niles. Turn left onto Iowa Ave.
+
+**From I-80/Ohio Turnpike:** Take Exit 234 (Niles/Warren). Head south on OH-46, turn right onto Iowa Ave.
+
+Free parking is available at the church.
+
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+
+**Still have questions?** We're happy to answer anything.
+
+<a href="/contact/" class="cta-button" style="margin-top: 1rem;">Contact Us</a>
+
+**We can't wait to meet you. 🙏**
+
+</div>

@@ -2,13 +2,14 @@ baseURL = "https://simplypraise.org/"
 languageCode = "en-us"
 title = "Praise Cathedral Church of God"
 theme = "PaperMod"
+copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 · (330) 652-4859"
 
 [pagination]
   pagerSize = 10
 
 [params]
   env = "production"
-  description = "Praise Cathedral Church of God — A welcoming Pentecostal church family in Niles, Ohio. Join us for worship, fellowship, and community. Pastor Jim Salyers."
+  description = "Praise Cathedral Church of God — A warm, Spirit-filled Pentecostal church family in Niles, Ohio. Join us for worship, fellowship, and community. Pastor Jim Salyers."
   author = "Praise Cathedral Church of God"
   defaultTheme = "light"
   disableThemeToggle = true
@@ -24,12 +25,13 @@ theme = "PaperMod"
   images = ["/images/og-default.jpg"]
 
   [params.label]
-    text = "Praise Cathedral"
-    iconHeight = 60
+    text = " "
+    icon = "images/logo.png"
+    iconHeight = 55
 
   [params.homeInfoParams]
-    Title = "Welcome to Praise Cathedral"
-    Content = """A warm, Spirit-filled church family in the heart of Niles, Ohio. Whether you're searching for a church home or just curious about what we're all about, you're welcome here. Come as you are — we'd love to meet you."""
+    Title = "Welcome Home"
+    Content = """A warm, Spirit-filled church family in the heart of Niles, Ohio.<br>Whether you're searching for a church home or just curious about what we're all about — <strong>you're welcome here.</strong><br><br><a href="/visit/" class="cta-button">Plan Your Visit</a>&nbsp;&nbsp;<a href="/services/" class="cta-button-outline">Service Times</a>"""
 
   [[params.socialIcons]]
     name = "facebook"
@@ -44,12 +46,16 @@ theme = "PaperMod"
     url = "mailto:info@simplypraise.org"
 
 [params.assets]
-  favicon = "/images/cross-icon.svg"
+  favicon = "/images/favicon.png"
 
 [params.cover]
   hidden = false
   hiddenInList = false
   hiddenInSingle = false
+
+[params.footer]
+  hideCopyright = false
+  text = "\"For where two or three are gathered together in my name, there am I in the midst of them.\" — Matthew 18:20"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -67,17 +73,17 @@ theme = "PaperMod"
     weight = 10
   [[menu.main]]
     identifier = "services"
-    name = "Service Times"
+    name = "Services"
     url = "/services/"
     weight = 20
   [[menu.main]]
     identifier = "pastor"
-    name = "Our Pastor"
+    name = "Pastor"
     url = "/pastor/"
     weight = 30
   [[menu.main]]
     identifier = "visit"
-    name = "Plan Your Visit"
+    name = "Visit"
     url = "/visit/"
     weight = 40
   [[menu.main]]
