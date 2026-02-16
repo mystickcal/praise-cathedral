@@ -856,9 +856,9 @@ body.list .main {
     text-align: center;
     padding: 2.5rem 1.5rem !important;
     font-size: 0.9rem;
-    margin-top: 0;
-    width: 100vw !important;
-    margin-left: calc(-50vw + 50%) !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
     box-sizing: border-box;
 }
 
