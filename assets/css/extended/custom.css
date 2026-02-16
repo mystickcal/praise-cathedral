@@ -48,8 +48,9 @@ body {
    HEADER / NAV — Logo prominent
    ============================================= */
 .header {
-    background: linear-gradient(135deg, var(--brand-blue-dark) 0%, var(--brand-blue) 50%, var(--brand-blue-light) 100%) !important;
-    box-shadow: 0 4px 20px rgba(11, 61, 145, 0.3);
+    background: var(--brand-white) !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    border-bottom: 2px solid var(--brand-gold);
     padding: 0 !important;
     position: sticky;
     top: 0;
@@ -70,7 +71,7 @@ body {
     display: flex !important;
     align-items: center !important;
     gap: 0.75rem;
-    color: var(--brand-white) !important;
+    color: var(--brand-blue-dark) !important;
     text-decoration: none !important;
     white-space: nowrap;
 }
@@ -78,12 +79,10 @@ body {
 .logo a img {
     height: 140px !important;
     width: auto !important;
-    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.3));
     transition: var(--transition);
 }
 
 .logo a img:hover {
-    filter: drop-shadow(0 3px 8px rgba(0,0,0,0.4));
     transform: scale(1.02);
 }
 
@@ -98,7 +97,7 @@ body {
 }
 
 #menu a {
-    color: rgba(255, 255, 255, 0.92) !important;
+    color: var(--brand-blue-dark) !important;
     font-size: 0.85rem !important;
     font-weight: 700 !important;
     text-transform: uppercase !important;
@@ -110,12 +109,12 @@ body {
 }
 
 #menu a:hover {
-    color: var(--brand-gold) !important;
-    background: rgba(255, 255, 255, 0.12);
+    color: var(--brand-blue-light) !important;
+    background: rgba(10, 36, 99, 0.06);
 }
 
 #menu a span.active {
-    color: var(--brand-gold) !important;
+    color: var(--brand-blue) !important;
 }
 
 /* =============================================
