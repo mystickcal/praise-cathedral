@@ -1098,7 +1098,7 @@ body.list .main {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2.5rem;
-    align-items: start;
+    align-items: stretch;
     margin: 2rem 0 3rem;
 }
 
@@ -1110,7 +1110,9 @@ body.list .main {
 
 .pastor-image img {
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
     display: block;
     border-radius: var(--radius);
 }
