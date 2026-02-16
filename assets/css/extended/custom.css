@@ -694,7 +694,7 @@ body.list .main {
 .post-content blockquote {
     border-left: 5px solid var(--brand-gold) !important;
     background: linear-gradient(135deg, var(--brand-gold-soft) 0%, rgba(255, 215, 0, 0.05) 100%) !important;
-    padding: 2.5rem 2rem 2rem 2.5rem !important;
+    padding: 1.8rem 2rem !important;
     font-style: italic;
     margin: 2.5rem 0 !important;
     border-radius: 0 var(--radius) var(--radius) 0;
@@ -704,7 +704,6 @@ body.list .main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 80px;
     text-align: center;
 }
 
@@ -718,11 +717,19 @@ body.list .main {
     display: block;
     text-align: center;
     position: static;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.2rem;
+    flex-shrink: 0;
 }
 
 .post-content blockquote p {
     margin: 0 !important;
+    padding: 0 !important;
+    text-align: center !important;
+    width: 100%;
+}
+
+.post-content blockquote p:last-child {
+    margin-bottom: 0 !important;
 }
 
 /* Tables */
