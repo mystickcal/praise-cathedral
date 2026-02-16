@@ -43,7 +43,7 @@ copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:info@simplypraise.org"
+    url = "mailto:pastorjim@simplypraise.org"
 
 [params.assets]
   favicon = "/images/favicon.png"

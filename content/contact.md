@@ -12,15 +12,19 @@ We'd love to hear from you. Whether you have a question, a prayer request, or ju
 <div class="info-card">
 
 ### 📍 Church Address
+
 **608 Iowa Avenue, Niles, OH 44446**
 
 ### 📞 Phone
+
 **(330) 652-4859**
 
 ### 📧 Email
-**info@simplypraise.org**
+
+**pastorjim@simplypraise.org**
 
 ### 🔵 Facebook
+
 [Find us on Facebook](https://www.facebook.com/groups/726230317426276/)
 
 </div>
@@ -36,8 +40,11 @@ The best way to reach us is by phone during the week or in person on Sundays. If
 If you or someone you know needs prayer, we would be honored to pray with you and for you. Call the church office or reach out on our Facebook page. You don't have to be a member of our church to ask for prayer.
 
 <div class="highlight-box">
+
 <h3>🙏 We'll Pray With You</h3>
+
 <p>You don't have to carry it alone. Reach out anytime — we're here for you.</p>
+
 </div>
 
 > *"Is any among you afflicted? let him pray. Is any merry? let him sing psalms."* — James 5:13

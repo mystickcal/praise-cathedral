@@ -773,6 +773,15 @@ body.list .main {
     box-shadow: var(--shadow-medium);
 }
 
+.info-card h3 {
+    border: none !important;
+    padding-bottom: 0 !important;
+}
+
+.info-card h3::after {
+    display: none !important;
+}
+
 .highlight-box {
     background: linear-gradient(135deg, var(--brand-blue) 0%, var(--brand-blue-light) 100%);
     color: var(--brand-white);
@@ -788,6 +797,11 @@ body.list .main {
     font-family: 'Playfair Display', serif;
     margin-bottom: 0.5rem;
     border: none !important;
+    padding-bottom: 0 !important;
+}
+
+.highlight-box h3::after {
+    display: none !important;
 }
 
 .highlight-box p {
@@ -843,6 +857,9 @@ body.list .main {
     padding: 2.5rem 1.5rem !important;
     font-size: 0.9rem;
     margin-top: 0;
+    width: 100vw !important;
+    margin-left: calc(-50vw + 50%) !important;
+    box-sizing: border-box;
 }
 
 .footer a {

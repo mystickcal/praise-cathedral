@@ -27,8 +27,11 @@ Visiting a new church can feel a little nerve-wracking, so here's what you need 
 ## When to Come
 
 <div class="highlight-box">
+
 <h3>🌟 Best First Visit</h3>
+
 <p>Sunday Morning Worship at 11:00 AM — it's our main weekly gathering and gives you the full picture of who we are.</p>
+
 </div>
 
 If you'd rather start with something more low-key, **Wednesday night Bible Study at 7:00 PM** is a smaller, more relaxed setting.
