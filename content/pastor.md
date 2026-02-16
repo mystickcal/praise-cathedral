@@ -5,12 +5,11 @@ url: "/pastor/"
 summary: "Meet Pastor Jim Salyers — the heart and shepherd of Praise Cathedral Church of God."
 ---
 
-## Pastor Jim Salyers
+## Pastor Jim and Roberta Salyers
 
 <div class="pastor-intro-grid">
   <div class="pastor-image">
     <img src="/images/pastor-jim-roberta.jpg" alt="Pastor Jim and Roberta Salyers">
-    <p class="image-caption">Pastor Jim & Roberta Salyers</p>
   </div>
   <div class="pastor-intro-text">
     <h3>A Pastor Who Knows Your Name</h3>

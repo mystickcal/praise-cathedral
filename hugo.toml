@@ -62,8 +62,15 @@ copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 
 
 [markup]
   [markup.goldmark]
+    [markup.goldmark.parser]
+      autoHeadingIDType = "github"
+      [markup.goldmark.parser.attribute]
+        block = true
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
 
 [menu]
   [[menu.main]]

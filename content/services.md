@@ -17,7 +17,6 @@ We'd love to have you worship with us. Here's when you can find us:
       <tbody>
         <tr><td>Sunday School</td><td>10:00 AM</td></tr>
         <tr><td>Morning Worship</td><td>11:00 AM</td></tr>
-        <tr><td>Evening Service</td><td>6:00 PM</td></tr>
       </tbody>
     </table>
   </div>
@@ -53,15 +52,6 @@ Small-group Bible study with classes for all ages. It's relaxed, conversational,
 **11:00 AM**
 
 Our main service. Expect heartfelt praise and worship, prayer, and a message from Pastor Jim that's grounded in the Word.
-
-</div>
-
-<div class="info-card">
-
-### 🌙 Evening Service
-**6:00 PM**
-
-A more intimate time of worship and teaching. A great way to close out the weekend and refocus before the week ahead.
 
 </div>
 

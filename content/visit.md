@@ -13,7 +13,7 @@ Visiting a new church can feel a little nerve-wracking, so here's what you need 
 
 ## Where to Find Us
 
-<div class="info-card">
+<div class="info-card" style="margin-bottom: 2rem;">
 
 **Praise Cathedral Church of God**
 608 Iowa Avenue, Niles, OH 44446
@@ -22,7 +22,7 @@ Visiting a new church can feel a little nerve-wracking, so here's what you need 
 
 </div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2987.5!2d-80.7654!3d41.1826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8833e3a99e7e7e7%3A0x0!2s608+Iowa+Ave%2C+Niles%2C+OH+44446!5e0!3m2!1sen!2sus!4v1" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2987.5!2d-80.7654!3d41.1826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8833e3a99e7e7e7%3A0x0!2s608+Iowa+Ave%2C+Niles%2C+OH+44446!5e0!3m2!1sen!2sus!4v1" width="100%" height="350" style="border:0; display:block; margin-top: 1.5rem;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## When to Come
 
