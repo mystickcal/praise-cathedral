@@ -349,6 +349,7 @@ body {
     font-size: 0.93rem;
     margin: 0;
     line-height: 1.6;
+    text-align: left !important;
 }
 
 /* Section: About (uses cream bg by default from .home-section odd) */
@@ -402,14 +403,7 @@ body {
 }
 
 .home-verse::before {
-    content: '\201C';
-    font-family: 'Playfair Display', serif;
-    font-size: 6rem;
-    color: var(--brand-gold);
-    opacity: 0.4;
-    display: block;
-    line-height: 0.5;
-    margin-bottom: 0.5rem;
+    display: none !important;
 }
 
 .home-verse p {
@@ -469,7 +463,7 @@ body {
     font-size: 0.93rem;
     margin: 0;
     line-height: 1.6;
-    text-align: center !important;
+    text-align: left !important;
 }
 
 /* Section: Visit CTA */
@@ -513,7 +507,12 @@ body {
     font-size: 0.93rem;
     margin: 0;
     line-height: 1.6;
-    text-align: center !important;
+    text-align: left !important;
+}
+
+/* Force "Come As You Are" heading to white on blue bg */
+.section-visit .section-title {
+    color: var(--brand-white) !important;
 }
 
 /* Section: Location */
@@ -797,11 +796,12 @@ body.list .main {
     text-align: center !important;
 }
 
-/* Service time — tight with heading, space before description */
+/* Service time — centered, tight with heading, space before description */
 .service-time {
     margin: 0 0 1rem 0 !important;
     font-size: 1.05rem;
     color: var(--text-secondary);
+    text-align: center !important;
 }
 
 .info-card p {
@@ -809,8 +809,9 @@ body.list .main {
     flex-grow: 1;
 }
 
+/* Description text left-aligned */
 .service-cards-grid .info-card p {
-    text-align: center !important;
+    text-align: left !important;
 }
 
 .highlight-box {
@@ -1178,12 +1179,14 @@ body.list .main {
     font-size: 1.15rem;
     border: none !important;
     padding-bottom: 0 !important;
+    text-align: center !important;
 }
 
 .visit-question p {
     margin-bottom: 0;
     color: var(--text-secondary);
     line-height: 1.7;
+    text-align: left !important;
 }
 
 /* =============================================
@@ -1216,6 +1219,7 @@ body.list .main {
     font-size: 1.1rem;
     border: none !important;
     padding-bottom: 0 !important;
+    text-align: center !important;
 }
 
 .direction-card p {
@@ -1223,6 +1227,7 @@ body.list .main {
     color: var(--text-secondary);
     line-height: 1.6;
     font-size: 0.95rem;
+    text-align: left !important;
 }
 
 /* =============================================
