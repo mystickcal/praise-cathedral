@@ -749,7 +749,7 @@ body.list .main {
 /* Info cards & highlight boxes on inner pages */
 .service-cards-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
     margin: 2rem 0;
 }
@@ -990,6 +990,7 @@ body.list .main {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
     margin: 2rem 0 3rem;
+    align-items: start;
 }
 
 .service-day {
@@ -1013,6 +1014,12 @@ body.list .main {
 
 .service-day table {
     margin: 0 !important;
+    width: 100% !important;
+}
+
+.service-day table th,
+.service-day table td {
+    width: 50%;
 }
 
 /* =============================================
@@ -1186,16 +1193,10 @@ body.list .main {
     }
 }
 
-/* Service Cards: Force 2x2 on tablet */
-@media (min-width: 769px) and (max-width: 1023px) {
+/* Service Cards: 2x2 on desktop, 1-col on mobile */
+@media (max-width: 640px) {
     .service-cards-grid {
-        grid-template-columns: repeat(2, 1fr) !important;
-    }
-}
-
-@media (min-width: 1024px) {
-    .service-cards-grid {
-        grid-template-columns: repeat(4, 1fr) !important;
+        grid-template-columns: 1fr !important;
     }
 }
 
