@@ -39,28 +39,25 @@ We'd love to have you worship with us. Here's when you can find us:
 
 <div class="info-card">
 
-### 📖 Sunday School
-**10:00 AM**
-
-Small-group Bible study with classes for all ages. It's relaxed, conversational, and a great way to dig deeper into Scripture.
-
-</div>
-
-<div class="info-card">
-
-### ☀️ Morning Worship
-**11:00 AM**
-
-Our main service. Expect heartfelt praise and worship, prayer, and a message from Pastor Jim that's grounded in the Word.
+<h3>📖 Sunday School</h3>
+<p class="service-time"><strong>10:00 AM</strong></p>
+<p>Small-group Bible study with classes for all ages. It's relaxed, conversational, and a great way to dig deeper into Scripture.</p>
 
 </div>
 
 <div class="info-card">
 
-### 🔥 Wednesday Night
-**7:00 PM**
+<h3>☀️ Morning Worship</h3>
+<p class="service-time"><strong>11:00 AM</strong></p>
+<p>Our main service. Expect heartfelt praise and worship, prayer, and a message from Pastor Jim that's grounded in the Word.</p>
 
-Mid-week recharge. Bible study, prayer, and fellowship in a laid-back setting to get you through the week.
+</div>
+
+<div class="info-card">
+
+<h3>🔥 Wednesday Night</h3>
+<p class="service-time"><strong>7:00 PM</strong></p>
+<p>Mid-week recharge. Bible study, prayer, and fellowship in a laid-back setting to get you through the week.</p>
 
 </div>
 

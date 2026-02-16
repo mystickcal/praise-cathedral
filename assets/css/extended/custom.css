@@ -708,17 +708,7 @@ body.list .main {
 }
 
 .post-content blockquote::before {
-    content: '\201C';
-    font-family: 'Playfair Display', serif;
-    font-size: 3.5rem;
-    color: var(--brand-gold-dark);
-    opacity: 0.3;
-    line-height: 1;
-    display: block;
-    text-align: center;
-    position: static;
-    margin-bottom: 0.2rem;
-    flex-shrink: 0;
+    display: none !important;
 }
 
 .post-content blockquote p {
@@ -782,29 +772,44 @@ body.list .main {
     box-shadow: var(--shadow-soft);
     border-left: 5px solid var(--brand-gold);
     transition: var(--transition);
-    height: 100%; /* Full height for grid */
     display: flex;
     flex-direction: column;
-    text-align: center;
 }
 
-/* Reset margin when inside grid (grid handles gap) */
+/* Inside service-cards grid: centered text, no extra margin */
 .service-cards-grid .info-card {
     margin: 0;
+    text-align: center;
+    height: 100%;
 }
 
 .info-card h3 {
     border: none !important;
-    padding-bottom: 0.5rem !important;
+    padding-bottom: 0 !important;
     margin-top: 0 !important;
+    margin-bottom: 0.2rem !important;
     color: var(--brand-blue) !important;
     font-size: 1.25rem !important;
+}
+
+/* Inside grid, center the headings */
+.service-cards-grid .info-card h3 {
     text-align: center !important;
+}
+
+/* Service time — tight with heading, space before description */
+.service-time {
+    margin: 0 0 1rem 0 !important;
+    font-size: 1.05rem;
+    color: var(--text-secondary);
 }
 
 .info-card p {
     margin-bottom: 0 !important;
     flex-grow: 1;
+}
+
+.service-cards-grid .info-card p {
     text-align: center !important;
 }
 
@@ -1055,10 +1060,11 @@ body.list .main {
     table-layout: fixed !important;
     margin: 0 !important;
     width: 100% !important;
-    border-radius: 8px !important;
-    overflow: hidden !important;
+    border-radius: 0 !important;
+    overflow: visible !important;
     flex-grow: 1;
     border-collapse: collapse !important;
+    box-shadow: none !important;
 }
 
 .service-day table th,
@@ -1066,21 +1072,11 @@ body.list .main {
     width: 50%;
 }
 
-/* Make the header row fill full width with no gaps */
-.service-day table thead tr {
-    display: table-row;
-}
-
 .service-day table th {
     border-radius: 0 !important;
-}
-
-.service-day table th:first-child {
-    border-radius: 8px 0 0 0 !important;
-}
-
-.service-day table th:last-child {
-    border-radius: 0 8px 0 0 !important;
+    background: linear-gradient(135deg, var(--brand-blue-dark), var(--brand-blue)) !important;
+    color: var(--brand-white) !important;
+    padding: 1rem 1.2rem !important;
 }
 
 /* Right-align the Time column */
