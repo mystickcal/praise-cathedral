@@ -1,32 +1,35 @@
 /* ===================================================
-   Praise Cathedral Church of God — Brand Theme v2
-   Colors from logo:
-   - Royal Blue:    #0B3D91
-   - Golden Yellow: #FFD700
-   - Sky Blue:      #4DA8DA
-   - White/Cream
+   Praise Cathedral Church of God — Brand Theme v3
+   Colors matched to official logo:
+   - Dark Navy:     #0A2463
+   - Royal Blue:    #0D5DB8
+   - Bright Blue:   #1478D3
+   - Rich Gold:     #D4A017
+   - Bright Gold:   #F0C830
+   - Dark Amber:    #B8860B
    =================================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=Open+Sans:wght@400;500;600;700&display=swap');
 
 :root {
-    --brand-blue: #0B3D91;
-    --brand-blue-dark: #072C6B;
-    --brand-blue-light: #1A56C4;
-    --brand-gold: #FFD700;
-    --brand-gold-dark: #D4AF37;
-    --brand-gold-soft: #FFF8DC;
-    --brand-sky: #4DA8DA;
-    --brand-sky-light: #E8F4FD;
+    --brand-blue: #0D5DB8;
+    --brand-blue-dark: #0A2463;
+    --brand-blue-light: #1478D3;
+    --brand-gold: #F0C830;
+    --brand-gold-dark: #D4A017;
+    --brand-gold-soft: #FDF8E8;
+    --brand-amber: #B8860B;
+    --brand-sky: #2E6FC2;
+    --brand-sky-light: #EAF1FA;
     --brand-white: #FFFFFF;
     --brand-cream: #FDFBF7;
     --brand-warm-gray: #F5F0E8;
-    --text-primary: #1A1A2E;
-    --text-secondary: #4A4A5A;
-    --text-light: #7A7A8A;
-    --shadow-soft: 0 2px 15px rgba(11, 61, 145, 0.08);
-    --shadow-medium: 0 4px 25px rgba(11, 61, 145, 0.12);
-    --shadow-lift: 0 8px 35px rgba(11, 61, 145, 0.15);
+    --text-primary: #0A2463;
+    --text-secondary: #3A4A6A;
+    --text-light: #6A7A9A;
+    --shadow-soft: 0 2px 15px rgba(10, 36, 99, 0.08);
+    --shadow-medium: 0 4px 25px rgba(10, 36, 99, 0.12);
+    --shadow-lift: 0 8px 35px rgba(10, 36, 99, 0.15);
     --radius: 12px;
     --radius-lg: 20px;
     --transition: all 0.3s ease;
@@ -73,7 +76,7 @@ body {
 }
 
 .logo a img {
-    height: 280px !important;
+    height: 70px !important;
     width: auto !important;
     filter: drop-shadow(0 2px 6px rgba(0,0,0,0.3));
     transition: var(--transition);
@@ -559,14 +562,14 @@ body {
     font-size: 0.95rem;
     letter-spacing: 0.05em;
     transition: var(--transition);
-    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.35);
+    box-shadow: 0 4px 15px rgba(212, 160, 23, 0.35);
     text-transform: uppercase;
 }
 
 .cta-button:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(212, 175, 55, 0.5);
-    background: linear-gradient(135deg, var(--brand-gold), #FFE44D);
+    box-shadow: 0 6px 20px rgba(212, 160, 23, 0.5);
+    background: linear-gradient(135deg, var(--brand-gold), #F7E07D);
     color: var(--brand-blue-dark) !important;
     border: none !important;
 }
@@ -924,7 +927,7 @@ body.list .main {
     }
 
     .logo a img {
-        height: 180px !important;
+        height: 55px !important;
     }
 
     #menu {
@@ -956,7 +959,7 @@ body.list .main {
     }
 
     .logo a img {
-        height: 120px !important;
+        height: 45px !important;
     }
 
     .feature-grid {
