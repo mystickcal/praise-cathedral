@@ -76,7 +76,7 @@ body {
 }
 
 .logo a img {
-    height: 70px !important;
+    height: 140px !important;
     width: auto !important;
     filter: drop-shadow(0 2px 6px rgba(0,0,0,0.3));
     transition: var(--transition);
@@ -927,7 +927,7 @@ body.list .main {
     }
 
     .logo a img {
-        height: 55px !important;
+        height: 100px !important;
     }
 
     #menu {
@@ -959,7 +959,7 @@ body.list .main {
     }
 
     .logo a img {
-        height: 45px !important;
+        height: 80px !important;
     }
 
     .feature-grid {
