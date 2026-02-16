@@ -769,6 +769,7 @@ body.list .main {
     height: 100%; /* Full height for grid */
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .info-card h3 {
@@ -777,11 +778,13 @@ body.list .main {
     margin-top: 0 !important;
     color: var(--brand-blue) !important;
     font-size: 1.25rem !important;
+    text-align: center !important;
 }
 
 .info-card p {
     margin-bottom: 0 !important;
     flex-grow: 1;
+    text-align: center !important;
 }
 
 .highlight-box {
