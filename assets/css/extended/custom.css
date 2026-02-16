@@ -1115,6 +1115,7 @@ body.list .main {
     object-fit: cover;
     object-position: center top;
     display: block;
+    margin: 0 !important;
 }
 
 .pastor-image .image-caption {
