@@ -77,8 +77,9 @@ body {
 }
 
 .logo a img {
-    height: 190px !important;
+    height: 160px !important;
     width: auto !important;
+    padding-top: 8px;
     transition: var(--transition);
 }
 
