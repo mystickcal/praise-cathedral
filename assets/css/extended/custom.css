@@ -77,7 +77,7 @@ body {
 }
 
 .logo a img {
-    height: 160px !important;
+    height: 140px !important;
     width: auto !important;
     padding-top: 8px;
     transition: var(--transition);
@@ -1106,6 +1106,7 @@ body.list .main {
     overflow: hidden;
     border-radius: var(--radius);
     box-shadow: var(--shadow-medium);
+    display: flex;
 }
 
 .pastor-image img {
@@ -1114,7 +1115,6 @@ body.list .main {
     object-fit: cover;
     object-position: center top;
     display: block;
-    border-radius: var(--radius);
 }
 
 .pastor-image .image-caption {
