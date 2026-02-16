@@ -2,7 +2,7 @@ baseURL = "https://simplypraise.org/"
 languageCode = "en-us"
 title = "Praise Cathedral Church of God"
 theme = "PaperMod"
-copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 · (330) 652-4859"
+copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 · (330) 647-0928"
 
 [pagination]
   pagerSize = 10
@@ -39,7 +39,7 @@ copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 
 
   [[params.socialIcons]]
     name = "phone"
-    url = "tel:+13306524859"
+    url = "tel:+13306470928"
 
   [[params.socialIcons]]
     name = "email"

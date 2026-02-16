@@ -13,7 +13,7 @@ We'd love to hear from you. Whether you have a question, a prayer request, or ju
   <div class="info-card">
     <h3>📍 Visit Us</h3>
     <p><strong>608 Iowa Avenue, Niles, OH 44446</strong></p>
-    <p>📞 <strong>(330) 652-4859</strong></p>
+    <p>📞 <strong>(330) 647-0928</strong></p>
   </div>
   <div class="info-card">
     <h3>💬 Connect Online</h3>

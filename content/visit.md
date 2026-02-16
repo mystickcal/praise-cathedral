@@ -18,7 +18,7 @@ Visiting a new church can feel a little nerve-wracking, so here's what you need 
 **Praise Cathedral Church of God**<br>
 608 Iowa Avenue, Niles, OH 44446
 
-📞 **(330) 652-4859**
+📞 **(330) 647-0928**
 
 </div>
 

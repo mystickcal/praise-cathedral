@@ -27,7 +27,7 @@ layout: "home"
   <div class="quick-info-card">
     <div class="icon">📍</div>
     <h3>Find Us</h3>
-    <p>608 Iowa Avenue<br>Niles, OH 44446<br><strong>(330) 652-4859</strong></p>
+    <p>608 Iowa Avenue<br>Niles, OH 44446<br><strong>(330) 647-0928</strong></p>
   </div>
 </div>
 
@@ -157,7 +157,7 @@ layout: "home"
       <div class="location-info">
         <h3>Praise Cathedral Church of God</h3>
         <p><strong>608 Iowa Avenue<br>Niles, OH 44446</strong></p>
-        <p>📞 <strong>(330) 652-4859</strong></p>
+        <p>📞 <strong>(330) 647-0928</strong></p>
         <p>📧 <strong>pastorjim@simplypraise.org</strong></p>
         <p style="margin-top: 1rem;"><a href="https://www.facebook.com/groups/726230317426276/" target="_blank" class="cta-button-dark">Follow Us on Facebook</a></p>
       </div>

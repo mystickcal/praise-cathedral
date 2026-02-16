@@ -983,12 +983,14 @@ body.list .main {
     }
 
     .nav {
-        flex-direction: column;
-        padding: 0.6rem 1rem !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        padding: 0.4rem 1rem !important;
+        position: relative;
     }
 
     .logo a img {
-        height: 130px !important;
+        height: 80px !important;
     }
 
     #menu {
@@ -996,8 +998,8 @@ body.list .main {
     }
 
     #menu a {
-        font-size: 0.78rem !important;
-        padding: 0.4rem 0.6rem !important;
+        font-size: 0.85rem !important;
+        padding: 0.5rem 0.8rem !important;
     }
 
     .location-grid {
@@ -1020,7 +1022,7 @@ body.list .main {
     }
 
     .logo a img {
-        height: 100px !important;
+        height: 70px !important;
     }
 
     .feature-grid {
