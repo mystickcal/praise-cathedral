@@ -32,6 +32,8 @@ As a **Church of God** congregation, we hold to the core truths of the Christian
   <div class="belief-item"><strong>Holiness</strong><p>A life of holiness is God's desire for every believer.</p></div>
 </div>
 
+&nbsp;
+
 We're part of the [Church of God](https://www.churchofgod.org/) denomination, headquartered in Cleveland, Tennessee.
 
 ## Our Heart
