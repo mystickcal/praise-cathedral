@@ -36,6 +36,8 @@ Pastor Jim's vision for Praise Cathedral has always been simple and steadfast:
 
 </div>
 
+&nbsp;
+
 Under his leadership, Praise Cathedral has grown into a warm, welcoming place where generations of families have found faith, hope, and belonging.
 
 > *"And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding."* — Jeremiah 3:15
