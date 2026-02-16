@@ -27,27 +27,43 @@ We'd love to have you worship with us. Here's when you can find us:
 
 ## What to Expect
 
+<div class="service-cards-grid">
+
 <div class="info-card">
 
-**Sunday School** is a time for small-group Bible study with classes for all ages. It's relaxed, conversational, and a great way to dig deeper into Scripture with people who are in your same season of life.
+### 📖 Sunday School
+**10:00 AM**
+
+Small-group Bible study with classes for all ages. It's relaxed, conversational, and a great way to dig deeper into Scripture.
 
 </div>
 
 <div class="info-card">
 
-**Morning Worship** is our main service. Expect heartfelt praise and worship, prayer, and a message from Pastor Jim that's grounded in the Word and relevant to everyday life. Services typically run about an hour to an hour and fifteen minutes.
+### ☀️ Morning Worship
+**11:00 AM**
+
+Our main service. Expect heartfelt praise and worship, prayer, and a message from Pastor Jim that's grounded in the Word.
 
 </div>
 
 <div class="info-card">
 
-**Sunday Evening Service** is a more intimate time of worship and teaching. It's a great way to close out the weekend and refocus before the week ahead.
+### 🌙 Evening Service
+**6:00 PM**
+
+A more intimate time of worship and teaching. A great way to close out the weekend and refocus before the week ahead.
 
 </div>
 
 <div class="info-card">
 
-**Wednesday Night** is all about going deeper. Bible study, prayer, and fellowship in a laid-back mid-week setting. Come recharge.
+### 🔥 Wednesday Night
+**7:00 PM**
+
+Mid-week recharge. Bible study, prayer, and fellowship in a laid-back setting to get you through the week.
+
+</div>
 
 </div>
 
