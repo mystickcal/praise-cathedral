@@ -27,7 +27,7 @@ copyright = "Praise Cathedral Church of God · 608 Iowa Avenue, Niles, OH 44446 
   [params.label]
     text = " "
     icon = "images/logo.png"
-    iconHeight = 280
+    iconHeight = 190
 
   [params.homeInfoParams]
     Title = "Welcome Home"
