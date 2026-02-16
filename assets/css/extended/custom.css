@@ -809,9 +809,12 @@ body.list .main {
     flex-grow: 1;
 }
 
-/* Description text left-aligned */
+/* Description text left-aligned, but service-time stays centered */
 .service-cards-grid .info-card p {
     text-align: left !important;
+}
+.service-cards-grid .info-card p.service-time {
+    text-align: center !important;
 }
 
 .highlight-box {
