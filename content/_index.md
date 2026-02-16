@@ -120,7 +120,7 @@ layout: "home"
         <p>The local church as a place where real people find real hope.</p>
       </div>
     </div>
-    <p style="text-align: center; margin-top: 1.5rem; color: var(--text-secondary);">We're part of the <a href="https://www.churchofgod.org/" target="_blank">Church of God</a> denomination, headquartered in Cleveland, Tennessee.</p>
+    <p style="text-align: center; margin-top: 0.75rem; color: var(--text-secondary);">We're part of the <a href="https://www.churchofgod.org/" target="_blank">Church of God</a> denomination, headquartered in Cleveland, Tennessee.</p>
   </div>
 </div>
 
