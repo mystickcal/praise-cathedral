@@ -22,7 +22,7 @@ layout: "home"
   <div class="quick-info-card">
     <div class="icon">📖</div>
     <h3>Wednesday Night</h3>
-    <p>7:00 PM<br>Bible Study & Prayer</p>
+    <p>7:00 PM Bible Study & Prayer</p>
   </div>
   <div class="quick-info-card">
     <div class="icon">📍</div>
