@@ -17,7 +17,7 @@ layout: "home"
   <div class="quick-info-card">
     <div class="icon">⛪</div>
     <h3>Sunday Worship</h3>
-    <p>10:00 AM Sunday School<br>11:00 AM Morning Worship<br>6:00 PM Evening Service</p>
+    <p>10:00 AM Sunday School<br>11:00 AM Morning Worship</p>
   </div>
   <div class="quick-info-card">
     <div class="icon">📖</div>
@@ -36,6 +36,7 @@ layout: "home"
     <h2 class="section-title">Who We Are</h2>
     <div class="section-divider"></div>
     <p>Praise Cathedral Church of God has been serving the Trumbull County community since <strong>1996</strong>. We're a family of believers doing our best to follow Jesus, love each other, and make a difference right here in our corner of the Mahoning Valley.</p>
+    <br>
     <p>We're not a perfect church and we don't pretend to be. But we're real, we're welcoming, and we genuinely care about the people who walk through our doors.</p>
     <div class="feature-grid">
       <div class="feature-item">
