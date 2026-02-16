@@ -23,12 +23,14 @@ We're not a perfect church and we don't pretend to be. We're a family of believe
 
 As a **Church of God** congregation, we hold to the core truths of the Christian faith:
 
-- **The Bible** is the inspired Word of God and our guide for life and faith
-- **Salvation** through Jesus Christ is available to everyone
-- **The Holy Spirit** empowers believers for living and service
-- **Water Baptism** and **the Lord's Supper** are observed as ordinances of the church
-- **The Second Coming** of Jesus Christ is our blessed hope
-- **A life of holiness** is God's desire for every believer
+<div class="beliefs-grid">
+  <div class="belief-item"><strong>The Bible</strong><p>The inspired Word of God and our guide for life and faith.</p></div>
+  <div class="belief-item"><strong>Salvation</strong><p>Through Jesus Christ, available to everyone.</p></div>
+  <div class="belief-item"><strong>The Holy Spirit</strong><p>Empowers believers for living and service.</p></div>
+  <div class="belief-item"><strong>Baptism & Communion</strong><p>Water Baptism and the Lord's Supper are observed as ordinances of the church.</p></div>
+  <div class="belief-item"><strong>The Second Coming</strong><p>Of Jesus Christ is our blessed hope.</p></div>
+  <div class="belief-item"><strong>Holiness</strong><p>A life of holiness is God's desire for every believer.</p></div>
+</div>
 
 We're part of the [Church of God](https://www.churchofgod.org/) denomination, headquartered in Cleveland, Tennessee.
 

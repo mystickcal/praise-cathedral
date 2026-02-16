@@ -9,24 +9,17 @@ summary: "Get in touch with Praise Cathedral Church of God in Niles, Ohio."
 
 We'd love to hear from you. Whether you have a question, a prayer request, or just want to say hello, don't hesitate to reach out.
 
-<div class="info-card">
-
-### 📍 Church Address
-
-**608 Iowa Avenue, Niles, OH 44446**
-
-### 📞 Phone
-
-**(330) 652-4859**
-
-### 📧 Email
-
-**pastorjim@simplypraise.org**
-
-### 🔵 Facebook
-
-[Find us on Facebook](https://www.facebook.com/groups/726230317426276/)
-
+<div class="contact-grid">
+  <div class="info-card">
+    <h3>📍 Visit Us</h3>
+    <p><strong>608 Iowa Avenue, Niles, OH 44446</strong></p>
+    <p>📞 <strong>(330) 652-4859</strong></p>
+  </div>
+  <div class="info-card">
+    <h3>💬 Connect Online</h3>
+    <p>📧 <strong>pastorjim@simplypraise.org</strong></p>
+    <p>🔵 <a href="https://www.facebook.com/groups/726230317426276/">Find us on Facebook</a></p>
+  </div>
 </div>
 
 ## Office Hours
@@ -53,14 +46,19 @@ If you or someone you know needs prayer, we would be honored to pray with you an
 
 ## Directions
 
-<div class="info-card">
-
-**From Warren:** Head east on E Market St / US-422, turn right onto Iowa Ave. The church is on your left.
-
-**From Youngstown:** Take I-80 W to OH-46 N toward Niles. Turn left onto Iowa Ave.
-
-**From I-80/Ohio Turnpike:** Take Exit 234 (Niles/Warren). Head south on OH-46, turn right onto Iowa Ave.
-
+<div class="directions-grid">
+  <div class="direction-card">
+    <h3>🚗 From Warren</h3>
+    <p>Head east on E Market St / US-422, turn right onto Iowa Ave. The church is on your left.</p>
+  </div>
+  <div class="direction-card">
+    <h3>🚗 From Youngstown</h3>
+    <p>Take I-80 W to OH-46 N toward Niles. Turn left onto Iowa Ave.</p>
+  </div>
+  <div class="direction-card">
+    <h3>🚗 From I-80/Turnpike</h3>
+    <p>Take Exit 234 (Niles/Warren). Head south on OH-46, turn right onto Iowa Ave.</p>
+  </div>
 </div>
 
 Free parking is available at the church.

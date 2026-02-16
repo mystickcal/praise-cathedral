@@ -7,17 +7,15 @@ summary: "Meet Pastor Jim Salyers — the heart and shepherd of Praise Cathedral
 
 ## Pastor Jim Salyers
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/images/pastor-jim-roberta.jpg" alt="Pastor Jim and Roberta Salyers" style="max-width: 500px; width: 100%; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
-  <p style="margin-top: 0.75rem; font-style: italic; color: #666; font-size: 0.95rem;">Pastor Jim & Roberta Salyers</p>
-</div>
-
-<div class="highlight-box">
-
-<h3>A Pastor Who Knows Your Name</h3>
-
-<p>In a world of mega-churches and online services, there's something special about a pastor who knows your name, knows your story, and genuinely cares about what you're going through.</p>
-
+<div class="pastor-intro-grid">
+  <div class="pastor-image">
+    <img src="/images/pastor-jim-roberta.jpg" alt="Pastor Jim and Roberta Salyers">
+    <p class="image-caption">Pastor Jim & Roberta Salyers</p>
+  </div>
+  <div class="pastor-intro-text">
+    <h3>A Pastor Who Knows Your Name</h3>
+    <p>In a world of mega-churches and online services, there's something special about a pastor who knows your name, knows your story, and genuinely cares about what you're going through.</p>
+  </div>
 </div>
 
 Pastor Jim Salyers has faithfully served as the shepherd of Praise Cathedral Church of God since the church was established in **1996**. Known to the congregation and community as **Pastor Jim**, he brings a genuine heart for people and a deep love for the Word of God to every service, every conversation, and every prayer.

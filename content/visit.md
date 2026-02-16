@@ -36,13 +36,20 @@ Visiting a new church can feel a little nerve-wracking, so here's what you need 
 
 If you'd rather start with something more low-key, **Wednesday night Bible Study at 7:00 PM** is a smaller, more relaxed setting.
 
-## What to Wear
-
-Come as you are. Seriously. Some folks dress up, some come in jeans and a T-shirt. We care a lot more about you being here than what you're wearing.
-
-## What About My Kids?
-
-Kids are welcome in all of our services. We have programs and activities for children and youth, and our church family loves kids. Your little ones will feel right at home.
+<div class="visit-questions-grid">
+  <div class="visit-question">
+    <h3>👕 What to Wear</h3>
+    <p>Come as you are. Seriously. Some folks dress up, some come in jeans and a T-shirt. We care a lot more about you being here than what you're wearing.</p>
+  </div>
+  <div class="visit-question">
+    <h3>👶 What About My Kids?</h3>
+    <p>Kids are welcome in all of our services. We have programs and activities for children and youth, and our church family loves kids. Your little ones will feel right at home.</p>
+  </div>
+  <div class="visit-question">
+    <h3>🚫 Will I Be Put on the Spot?</h3>
+    <p>Nope. We might acknowledge first-time visitors, but nobody's going to make you stand up, raise your hand, or do anything that makes you uncomfortable. We just want you to feel welcome.</p>
+  </div>
+</div>
 
 ## What Will the Service Be Like?
 
@@ -55,25 +62,24 @@ Our Sunday morning worship typically includes:
 
 The whole thing runs about an hour to an hour and fifteen minutes.
 
-## Will I Be Put on the Spot?
-
-Nope. We might acknowledge first-time visitors, but nobody's going to make you stand up, raise your hand, or do anything that makes you uncomfortable. We just want you to feel welcome.
-
 ---
 
-<div class="info-card">
-
-### Getting Here
-
-**From Warren:** Head east on E Market St / US-422, turn right onto Iowa Ave. The church is on your left.
-
-**From Youngstown:** Take I-80 W to OH-46 N toward Niles. Turn left onto Iowa Ave.
-
-**From I-80/Ohio Turnpike:** Take Exit 234 (Niles/Warren). Head south on OH-46, turn right onto Iowa Ave.
+<div class="directions-grid">
+  <div class="direction-card">
+    <h3>🚗 From Warren</h3>
+    <p>Head east on E Market St / US-422, turn right onto Iowa Ave. The church is on your left.</p>
+  </div>
+  <div class="direction-card">
+    <h3>🚗 From Youngstown</h3>
+    <p>Take I-80 W to OH-46 N toward Niles. Turn left onto Iowa Ave.</p>
+  </div>
+  <div class="direction-card">
+    <h3>🚗 From I-80/Turnpike</h3>
+    <p>Take Exit 234 (Niles/Warren). Head south on OH-46, turn right onto Iowa Ave.</p>
+  </div>
+</div>
 
 Free parking is available at the church.
-
-</div>
 
 ---
 

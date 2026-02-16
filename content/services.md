@@ -9,19 +9,28 @@ summary: "Weekly worship schedule at Praise Cathedral Church of God in Niles, Oh
 
 We'd love to have you worship with us. Here's when you can find us:
 
-### Sunday
-
-| Service | Time |
-|---------|------|
-| Sunday School | 10:00 AM |
-| Morning Worship | 11:00 AM |
-| Evening Service | 6:00 PM |
-
-### Wednesday
-
-| Service | Time |
-|---------|------|
-| Mid-Week Bible Study & Prayer | 7:00 PM |
+<div class="service-times-grid">
+  <div class="service-day">
+    <h3>Sunday</h3>
+    <table>
+      <thead><tr><th>Service</th><th>Time</th></tr></thead>
+      <tbody>
+        <tr><td>Sunday School</td><td>10:00 AM</td></tr>
+        <tr><td>Morning Worship</td><td>11:00 AM</td></tr>
+        <tr><td>Evening Service</td><td>6:00 PM</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="service-day">
+    <h3>Wednesday</h3>
+    <table>
+      <thead><tr><th>Service</th><th>Time</th></tr></thead>
+      <tbody>
+        <tr><td>Mid-Week Bible Study & Prayer</td><td>7:00 PM</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
 ---
 
