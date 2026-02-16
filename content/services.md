@@ -86,7 +86,7 @@ Check our [Facebook page](https://www.facebook.com/groups/726230317426276/) for 
 
 <div class="highlight-box">
 
-<h3>🎵 Your First Time?</h3>
+<h3>👋 Your First Time?</h3>
 
 <p>We recommend Sunday Morning Worship at 11:00 AM for your first visit. It's our main gathering and gives you the full picture of who we are.</p>
 
