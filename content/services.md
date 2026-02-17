@@ -25,7 +25,7 @@ We'd love to have you worship with us. Here's when you can find us:
     <table>
       <thead><tr><th>Service</th><th>Time</th></tr></thead>
       <tbody>
-        <tr><td>Bible Study & Prayer</td><td>7:00 PM</td></tr>
+        <tr><td>Bible Study & Prayer</td><td>7:00 PM</td></tr>\n        <tr><td>Youth Group</td><td>7:00 PM</td></tr>
       </tbody>
     </table>
   </div>

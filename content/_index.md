@@ -22,7 +22,7 @@ layout: "home"
   <div class="quick-info-card">
     <div class="icon">📖</div>
     <h3>Wednesday Night</h3>
-    <p>7:00 PM Bible Study & Prayer</p>
+    <p>7:00 PM Bible Study & Prayer<br>7:00 PM Youth Group</p>
   </div>
   <div class="quick-info-card">
     <div class="icon">📍</div>
@@ -35,7 +35,7 @@ layout: "home"
   <div class="section-inner">
     <h2 class="section-title">Who We Are</h2>
     <div class="section-divider"></div>
-    <p>Praise Cathedral Church of God has been serving the Trumbull County community since <strong>1996</strong>. We're a family of believers doing our best to follow Jesus, love each other, and make a difference right here in our corner of the Mahoning Valley.</p>
+    <p>Praise Cathedral Church of God has been serving the Trumbull County community since <strong>1995</strong>. We're a family of believers doing our best to follow Jesus, love each other, and make a difference right here in our corner of the Mahoning Valley.</p>
     <br>
     <p>We're not a perfect church and we don't pretend to be. But we're real, we're welcoming, and we genuinely care about the people who walk through our doors.</p>
     <div class="feature-grid">
@@ -57,7 +57,7 @@ layout: "home"
       <div class="feature-item">
         <span class="feature-icon">🤝</span>
         <h4>Community-Driven</h4>
-        <p>Serving Niles and the Mahoning Valley with open hands and open hearts since 1996.</p>
+        <p>Serving Niles and the Mahoning Valley with open hands and open hearts since 1995.</p>
       </div>
     </div>
     <div style="text-align: center; margin-top: 1.5rem;">
@@ -73,7 +73,7 @@ layout: "home"
     <div class="pastor-feature">
       <div class="pastor-text">
         <h3>Pastor Jim Salyers</h3>
-        <p>Pastor Jim has faithfully served as the shepherd of Praise Cathedral since <strong>1996</strong>. He's not the kind of preacher who talks over people's heads — he meets you where you are with a message that's real, practical, and rooted in Scripture.</p>
+        <p>Pastor Jim has faithfully served as the shepherd of Praise Cathedral since <strong>1995</strong>. He's not the kind of preacher who talks over people's heads — he meets you where you are with a message that's real, practical, and rooted in Scripture.</p>
         <p>In a world of mega-churches and online services, there's something special about a pastor who <strong>knows your name</strong>, knows your story, and genuinely cares about what you're going through.</p>
         <a href="/pastor/" class="cta-button-dark">Read More About Pastor Jim</a>
       </div>

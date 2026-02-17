@@ -17,7 +17,7 @@ summary: "Meet Pastor Jim Salyers — the heart and shepherd of Praise Cathedral
   </div>
 </div>
 
-Pastor Jim Salyers has faithfully served as the shepherd of Praise Cathedral Church of God since the church was established in **1996**. Known to the congregation and community as **Pastor Jim**, he brings a genuine heart for people and a deep love for the Word of God to every service, every conversation, and every prayer.
+Pastor Jim Salyers has faithfully served as the shepherd of Praise Cathedral Church of God since the church was established in **1995**. Known to the congregation and community as **Pastor Jim**, he brings a genuine heart for people and a deep love for the Word of God to every service, every conversation, and every prayer.
 
 Alongside him, his wife **Roberta** has been a faithful partner in ministry — supporting the church family, leading by example, and helping make Praise Cathedral the welcoming place it is today.
 

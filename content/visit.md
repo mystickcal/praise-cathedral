@@ -60,7 +60,7 @@ Our Sunday morning worship typically includes:
 - **The message** — Pastor Jim preaches from the Bible in a way that connects to real life
 - **Fellowship** — Stick around after service. People will want to meet you
 
-The whole thing runs about an hour to an hour and fifteen minutes.
+The whole thing runs about an hour and a half to an hour and forty-five minutes.
 
 ---
 

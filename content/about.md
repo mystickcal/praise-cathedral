@@ -7,7 +7,7 @@ summary: "Learn about Praise Cathedral Church of God in Niles, Ohio — our hist
 
 ## Who We Are
 
-Praise Cathedral Church of God is a Spirit-filled, Bible-believing church family located at **608 Iowa Avenue in Niles, Ohio**. We've been serving the Trumbull County community since **1996**, and our doors are wide open to anyone looking for a place to grow in faith, find real community, and experience the presence of God.
+Praise Cathedral Church of God is a Spirit-filled, Bible-believing church family located at **608 Iowa Avenue in Niles, Ohio**. We've been serving the Trumbull County community since **1995**, and our doors are wide open to anyone looking for a place to grow in faith, find real community, and experience the presence of God.
 
 We're not a perfect church and we don't pretend to be. We're a family of believers doing our best to follow Jesus, love each other, and make a difference right here in our corner of the Mahoning Valley.
 
